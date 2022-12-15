@@ -35,7 +35,7 @@ class _MovieListState extends State<MovieList> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Popular Movie : TI-3A / Rijal Ammar / 28'),
+        title: const Text('Popular Movie : TI-3B / Diajeng Nidzomy'),
       ),
       body: ListView.builder(
         // ignore: unnecessary_null_comparison
